@@ -64,8 +64,15 @@ header {
     bottom: 1rem;
     right: 2rem;
     font-size: 35px;
+    border: 2px solid #4E0070;
     background-color: #4E0070;
     color: #ffffff;
+}
+
+.button-float:hover {
+    border: 2px solid #4C79D3;
+    background-color: #ffffff;
+    color: #4C79D3;
 }
 
 .button-login:hover, .button-default:hover {
